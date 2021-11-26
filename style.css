@@ -1,0 +1,13 @@
+.body_backgorund 
+{
+    background-image:url("pokemon-crystal.jpg");
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 10px;
+   border-color: white;
+   border-style:ridge;
+   border-color: darkviolet;
+}
